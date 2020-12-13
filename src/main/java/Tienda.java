@@ -3,6 +3,7 @@ public class Tienda {
 String productos;
 String nacion;
 int cant;
+double desc;
 double percio;
 
     public Tienda(String productos, String nacion, int cant, double percio) {
